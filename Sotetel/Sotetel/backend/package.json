@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "html-pdf": "^3.0.1",
+    "next-intl": "^4.0.2",
+    "nodemailer": "^6.10.1",
+    "pdfkit": "^0.17.0",
+    "puppeteer": "^24.6.1"
+  }
+}
