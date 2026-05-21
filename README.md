@@ -318,21 +318,21 @@ The platform implements a three-tier role system, with each role accessing a ded
 **Figure 19 — Homepage Interface**
 > The landing page presenting SOTETEL's brand identity, services overview, and navigation to all public sections.
 
-![Homepage Interface](./frontend/screenshots/fig19-homepage.png)
+![Homepage Interface](./Sotetel/Sotetel/frontend/screenshots/fig19-homepage.png)
 
 ---
 
 **Figure 20 — Company Services Interface**
 > Displays the full catalogue of ICT services offered by SOTETEL, including networking, security, and infrastructure solutions.
 
-![Company Services Interface](./frontend/screenshots/fig20-services.png)
+![Company Services Interface](./Sotetel/Sotetel/frontend/screenshots/fig20-services.png)
 
 ---
 
 **Figure 21 — Authentication Page Interface**
 > Unified login/registration entry point for clients and administrators, with role-based form routing.
 
-![Authentication Page Interface](./frontend/screenshots/fig21-auth.png)
+![Authentication Page Interface](./Sotetel/Sotetel/frontend/screenshots/fig21-auth.png)
 
 ---
 
@@ -341,35 +341,35 @@ The platform implements a three-tier role system, with each role accessing a ded
 **Figure 22 — Client Dashboard Interface**
 > The client's central hub showing active tasks, pending quotes, recent invoices, and quick-action buttons.
 
-![Client Dashboard Interface](./frontend/screenshots/fig22-client-dashboard.png)
+![Client Dashboard Interface](./Sotetel/Sotetel/frontend/screenshots/fig22-client-dashboard.png)
 
 ---
 
 **Figure 23 — Client Quote Request Page**
 > Form allowing clients to submit a detailed service request, including description, urgency, and preferred timeline.
 
-![Client Quote Request Page](./frontend/screenshots/fig23-client-quote-request.png)
+![Client Quote Request Page](./Sotetel/Sotetel/frontend/screenshots/fig23-client-quote-request.png)
 
 ---
 
 **Figure 26 — Quote Response Page**
 > Displays the admin's priced quote to the client, who can formally accept or reject the offer before work begins.
 
-![Quote Response Page](./frontend/screenshots/fig26-client-quote-response.png)
+![Quote Response Page](./Sotetel/Sotetel/frontend/screenshots/fig26-client-quote-response.png)
 
 ---
 
 **Figure 28 — Client Task Confirmation Page**
 > Once the admin has assigned a technician, the client is prompted to formally confirm the task before execution.
 
-![Client Task Confirmation Page](./frontend/screenshots/fig28-client-task-confirm.png)
+![Client Task Confirmation Page](./Sotetel/Sotetel/frontend/screenshots/fig28-client-task-confirm.png)
 
 ---
 
 **Figure 34 — Client Invoices Page**
 > Lists all invoices issued to the client, with status (paid/unpaid), amounts, and downloadable PDF links.
 
-![Client Invoices Page](./frontend/screenshots/fig34-client-invoices.png)
+![Client Invoices Page](./Sotetel/Sotetel/frontend/screenshots/fig34-client-invoices.png)
 
 ---
 
@@ -378,56 +378,56 @@ The platform implements a three-tier role system, with each role accessing a ded
 **Figure 24 — Admin Dashboard Interface**
 > Central analytics panel showing live KPIs: total tasks, open requests, inventory status, and revenue metrics.
 
-![Admin Dashboard Interface](./frontend/screenshots/fig24-admin-dashboard.png)
+![Admin Dashboard Interface](./Sotetel/Sotetel/frontend/screenshots/fig24-admin-dashboard.png)
 
 ---
 
 **Figure 25 — Quote Management Interface**
 > Lists all client quote requests; admin can open, price, and respond to each request individually.
 
-![Quote Management Interface](./frontend/screenshots/fig25-admin-quote-management.png)
+![Quote Management Interface](./Sotetel/Sotetel/frontend/screenshots/fig25-admin-quote-management.png)
 
 ---
 
 **Figure 27 — Task Confirmation Page (Admin)**
 > The admin finalizes and sends the task confirmation to the client after pricing approval.
 
-![Task Confirmation Page Admin](./frontend/screenshots/fig27-admin-task-confirm.png)
+![Task Confirmation Page Admin](./Sotetel/Sotetel/frontend/screenshots/fig27-admin-task-confirm.png)
 
 ---
 
 **Figure 29 — Task Assignment Page**
 > Admin selects a qualified technician for the confirmed task and dispatches the assignment.
 
-![Task Assignment Page](./frontend/screenshots/fig29-admin-task-assignment.png)
+![Task Assignment Page](./Sotetel/Sotetel/frontend/screenshots/fig29-admin-task-assignment.png)
 
 ---
 
 **Figure 33 — Admin Manage Invoice**
 > Allows the admin to review, edit line items, and update the payment status of any invoice.
 
-![Admin Manage Invoice](./frontend/screenshots/fig33-admin-invoice.png)
+![Admin Manage Invoice](./Sotetel/Sotetel/frontend/screenshots/fig33-admin-invoice.png)
 
 ---
 
 **Figure 35 — Inventory Management Page**
 > Full stock control panel: add items, edit quantities, view usage history, and monitor low-stock alerts.
 
-![Inventory Management Page](./frontend/screenshots/fig35-admin-inventory.png)
+![Inventory Management Page](./Sotetel/Sotetel/frontend/screenshots/fig35-admin-inventory.png)
 
 ---
 
 **Figure 36 — Statistics Page**
 > Visual analytics page with charts for task completion rates, revenue trends, and inventory consumption.
 
-![Statistics Page](./frontend/screenshots/fig36-admin-statistics.png)
+![Statistics Page](./Sotetel/Sotetel/frontend/screenshots/fig36-admin-statistics.png)
 
 ---
 
 **Figure 37 — User Management Page**
 > Displays all registered users (admins, technicians, clients), with options to view profiles and manage roles.
 
-![User Management Page](./frontend/screenshots/fig37-admin-users.png)
+![User Management Page](./Sotetel/Sotetel/frontend/screenshots/fig37-admin-users.png)
 
 ---
 
@@ -436,21 +436,21 @@ The platform implements a three-tier role system, with each role accessing a ded
 **Figure 30 — Technician Dashboard Page**
 > Shows the technician's assigned tasks with status indicators, priority levels, and quick-action links.
 
-![Technician Dashboard Page](./frontend/screenshots/fig30-technician-dashboard.png)
+![Technician Dashboard Page](./Sotetel/Sotetel/frontend/screenshots/fig30-technician-dashboard.png)
 
 ---
 
 **Figure 31 — Task Update Page**
 > Allows the technician to update task progress (in-progress, completed), add notes, and log materials used.
 
-![Task Update Page](./frontend/screenshots/fig31-technician-task-update.png)
+![Task Update Page](./Sotetel/Sotetel/frontend/screenshots/fig31-technician-task-update.png)
 
 ---
 
 **Figure 32 — Admin Stock Usage Log Page**
 > Chronological log of all inventory movements triggered by technicians, with item name, quantity, and task reference.
 
-![Admin Stock Usage Log Page](./frontend/screenshots/fig32-admin-stock-log.png)
+![Admin Stock Usage Log Page](./Sotetel/Sotetel/frontend/screenshots/fig32-admin-stock-log.png)
 
 ---
 
