@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/assets/logo.png" alt="SOTETEL Logo" width="180"/>
+<img src="./Sotetel/Sotetel/frontend/public/assets/logo.png" alt="SOTETEL Logo" width="180"/>
 
 # SOTETEL — Technical Operations Management Platform
 
